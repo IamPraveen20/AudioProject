@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSharedPreferences</string>
+    <string name="text">choose the color u want</string>
+    <string name="buttonred">red</string>
+    <string name="buttongreen">green</string>
+    <string name="buttonyellow">yellow</string>
+</resources>
